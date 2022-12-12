@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Learning something new everyday.
-Jr. Software Engineer looking to make the leap into the testing world! Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a testing position.  
-
-I help maintain [The Odin Project](https://www.theodinproject.com/) to help others achieve their goals!
+Currently a student at [Codesmith](https://www.codesmith.io/) learning Full Stack Development! Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a development world.  
 
 ## Background
 Check out my [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940/) to learn more!
