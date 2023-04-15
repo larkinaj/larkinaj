@@ -24,7 +24,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940/) to 
 
 ## Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
-![Typescript](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript&logoColor=white&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=404254)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=white&logo=React&color=404254)
