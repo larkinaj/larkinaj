@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Learning something new everyday.
-Currently a student at [Codesmith](https://www.codesmith.io/) learning Full Stack Web Development! Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a development world.  
+Currently a Full Stack Web Developer at [OSLabs](https://www.opensourcelabs.io/). Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a development world.  
 
 ## Background
 Check out my [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940/) to learn more!
