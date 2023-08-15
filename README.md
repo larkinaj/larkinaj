@@ -22,8 +22,6 @@ Here are some ideas to get you started:
     - [GleiphQL](https://github.com/oslabs-beta/GleiphQL) - GQL rate-limiter with query complexity analysis for Node.js
     - [GleiphQL-Portal](https://github.com/oslabs-beta/GleiphQL-Portal) - developer portal for visualizing rate-limiting data
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL)](https://github.com/oslabs-beta/GleiphQL)
-
 <a href="https://github.com/oslabs-beta/GleiphQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL" />
 </a>
