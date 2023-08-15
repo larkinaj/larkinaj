@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **larkinaj/larkinaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Evan McNeely
-- 🔧 Technologies I work with: TypeScript, JavaScript, Python, Lua, Solidity, React, Node.js, Express, GraphQL, SQL, NoSQL
+- 👋 Hi, I’m Andrew Larkin
+- 🔧 Technologies I work with: TypeScript, JavaScript, Python, React, Node.js, Express, GraphQL, SQL, NoSQL
 - 🌱 I’m currently learning more about system design, application architecture, AI
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanmcneely/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanmcneely/](https://www.linkedin.com/in/andrew-larkin-71395940/)
 - 👨‍💻 Working for RedBrick and Leadpages
 - 📦 Packages: 
     - [GraphQLGate](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - GQL rate-limiter with query complexity analysis for Node.js
