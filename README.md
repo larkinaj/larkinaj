@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940)
 - 👨‍💻 Working for GleiphQL and OSLabs
 - 📦 Packages: 
-    - [GleiphQL](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - GQL rate-limiter with query complexity analysis for Node.js
+    - [GleiphQL](https://github.com/oslabs-beta/GleiphQL) - GQL rate-limiter with query complexity analysis for Node.js
     - [GleiphQL-Portal](https://github.com/oslabs-beta/GleiphQL-Portal) - developer portal for visualizing rate-limiting data
 
 ## Technologies & Tools
