@@ -16,19 +16,11 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Andrew Larkin
 - 🔧 Technologies I work with: TypeScript, JavaScript, Python, React, Node.js, Express, GraphQL, SQL, NoSQL
 - 🌱 I’m currently learning more about system design, application architecture, AI
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanmcneely/](https://www.linkedin.com/in/andrew-larkin-71395940/)
-- 👨‍💻 Working for RedBrick and Leadpages
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940)
+- 👨‍💻 Working for GleiphQL and OSLabs
 - 📦 Packages: 
-    - [GraphQLGate](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - GQL rate-limiter with query complexity analysis for Node.js
-    - [GraphQLGateway](https://github.com/oslabs-beta/GraphQL-Gateway) - developer portal for visualizing rate-limiting data
-    - [Gate-Logger](https://github.com/oslabs-beta/Gate-Logger) - log GQL rate-limiting data to developer portal
-
-## Learning something new everyday.
-Currently a Full Stack Web Developer at [OSLabs](https://www.opensourcelabs.io/). Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a development world.  
-
-## Background
-Check out my [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940/) to learn more!
-
+    - [GleiphQL](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - GQL rate-limiter with query complexity analysis for Node.js
+    - [GleiphQL-Portal](https://github.com/oslabs-beta/GleiphQL-Portal) - developer portal for visualizing rate-limiting data
 
 ## Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=e44c30&color=404254)
