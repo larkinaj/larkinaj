@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/oslabs-beta/GleiphQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/oslabs-beta/GleiphQL-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL-Portal&theme=buefy" />
 </a>
 
 ## Technologies & Tools
