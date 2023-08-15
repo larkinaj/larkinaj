@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL)](https://github.com/oslabs-beta/GleiphQL)
 
 <a href="https://github.com/oslabs-beta/GleiphQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL" />
 </a>
 <a href="https://github.com/oslabs-beta/GleiphQL-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL-Portal&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL-Portal" />
 </a>
 
 ## Technologies & Tools
