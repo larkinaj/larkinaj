@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL)](https://github.com/oslabs-beta/GleiphQL)
 
+<a href="https://github.com/oslabs-beta/GleiphQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=GleiphQL&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 ## Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=e44c30&color=404254)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript&logoColor=0174c1&color=404254)
