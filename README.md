@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/-NPM-000?style=flat&logoColor=orange&logo=npm&color=404254)
 
 ## Stats
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=larkinaj&show_icons=true&theme=dracula) 
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=larkinaj&show_icons=true&include_all_commits=true&theme=dracula) 
