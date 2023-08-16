@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔧 Technologies I work with: TypeScript, JavaScript, Python, React, Node.js, Express, GraphQL, SQL, NoSQL
 - 🌱 I’m currently learning more about full stack web development system design, application architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940)
-- 👨‍💻 Working for GleiphQL and OSLabs
+- 👨‍💻 Working with GleiphQL and OSLabs
 - 📦 Packages: 
     - [GleiphQL](https://github.com/oslabs-beta/GleiphQL) - GQL rate-limiter with query complexity analysis for Node.js
     - [GleiphQL-Portal](https://github.com/oslabs-beta/GleiphQL-Portal) - developer portal for visualizing rate-limiting data
