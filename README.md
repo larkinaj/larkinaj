@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Andrew Larkin
 - 🔧 Technologies I work with: TypeScript, JavaScript, Python, React, Node.js, Express, GraphQL, SQL, NoSQL
 - 🌱 I’m currently learning more about full stack web development, system design, application architecture
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-larkin-71395940)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larkinaj/)
 - 👨‍💻 Working with GleiphQL and OSLabs
 - 📦 Packages: 
     - [GleiphQL](https://github.com/oslabs-beta/GleiphQL) - GQL rate-limiter with query complexity analysis for Node.js
