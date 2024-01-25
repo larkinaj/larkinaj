@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 ## Technologies & Tools
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=e44c30&color=404254)
+![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=csharp&logoColor=512BD4&color=404254)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript&logoColor=0174c1&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=1774bb&color=404254)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&style=flat&color=404254)
